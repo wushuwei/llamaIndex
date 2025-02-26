@@ -1,0 +1,4 @@
+frozendict>=2.4.2
+llama-index
+transformers
+torch
